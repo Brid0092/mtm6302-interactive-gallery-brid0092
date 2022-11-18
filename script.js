@@ -13,14 +13,14 @@ const imagesObject = [
   {
     src: 'images/broccoli_pasta(300).gif',
     large: 'images/broccoli_pasta.gif',
-    caption: '(Image from www.freepik.com) Broccoli and cheese pasta, clasic 7.5/10',
+    caption: '(Image from www.freepik.com) Broccoli and cheese pasta, classic 7.5/10',
     alt: 'Broccoli Pasta & Cheese',
   },
 
   {
     src: 'images/shrimp_pasta(300).gif',
     large: 'images/shrimp_pasta.gif',
-    caption: '(Image from www.freepik.com) Shrimp veggie pasta, I do like shrimp but this one is a little too "soupy" for me, 6/10',
+    caption: '(Image from www.freepik.com) Shrimp veggie pasta, I do like shrimp but this one is a little too soupy for me, 6/10',
     alt: 'Soup & Shrimp Pasta Dish',
   },
 
@@ -41,7 +41,7 @@ const imagesObject = [
   {
     src: 'images/green_fettuccine(300).gif',
     large: 'images/green_fettuccine.gif',
-    caption: '(Image from www.freeimages.com) Green Fettuccine, I love alfrdo, fettuccine and the color green so 10/10',
+    caption: '(Image from www.freeimages.com) Green Fettuccine, I love alfredo, fettuccine and the color green so 10/10',
     alt: 'Green Fettucine Dish',
   },
 
