@@ -18,8 +18,8 @@ const imagesObject = [
   },
 
   {
-    src: 'images/caper_uncookedpasta(300).gif',
-    large: 'images/caper_uncookedpasta.gif',
+    src: 'images/shrimp_pasta(300).gif',
+    large: 'images/shrimp_pasta.gif',
     caption: '(Image from Pexels) Image of a big eyed cat',
     alt: 'Big eyed kitten image',
   },
