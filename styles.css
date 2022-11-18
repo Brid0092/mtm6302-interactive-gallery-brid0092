@@ -1,23 +1,19 @@
 html,
 body {
-
-    padding-left: 50px;
-    background-color: rgb(216, 213, 213);
+    background-color: pink;
+    text-align: center;
 }
 
 .gallery {
     display: flex;
-    justify-content: center;
-    align-content: center;
-    height: 100%;
-
 }
 
 
 h1 {
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-right: 70px;
+    letter-spacing: 0.5rem;
 }
 
 .pictures img {
@@ -28,6 +24,8 @@ h1 {
 img {
     max-width: 100%;
     cursor: pointer;
+    border-style: solid;
+    border-color: antiquewhite;
 }
 
 .pictures small {
